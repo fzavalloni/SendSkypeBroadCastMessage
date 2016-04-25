@@ -1,0 +1,15 @@
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\bin\Debug\SendBroadCastMessage.exe.config
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\bin\Debug\SendBroadCastMessage.exe
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\bin\Debug\SendBroadCastMessage.pdb
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\bin\Debug\Microsoft.Lync.Model.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\bin\Debug\Microsoft.Office.Uc.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\bin\Debug\Microsoft.Lync.Model.xml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\MainWindow.baml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\MainWindow.g.cs
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\App.g.cs
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\SendBroadCastMessage_MarkupCompile.cache
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\SendBroadCastMessage.g.resources
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\SendBroadCastMessage.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\SendSkypeBroadCastMessage.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\SendBroadCastMessage.exe
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\StartConversation\obj\x86\Debug\SendBroadCastMessage.pdb

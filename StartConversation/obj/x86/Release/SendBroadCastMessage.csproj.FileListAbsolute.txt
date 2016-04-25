@@ -1,0 +1,17 @@
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Release\SendBroadCastMessage.exe.config
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Release\SendBroadCastMessage.exe
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Release\SendBroadCastMessage.pdb
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Release\Microsoft.Lync.Model.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Release\MoreLinq.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Release\Microsoft.Office.Uc.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Release\Microsoft.Lync.Model.xml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Release\MoreLinq.xml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\MainWindow.baml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\MainWindow.g.cs
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\App.g.cs
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\SendBroadCastMessage_MarkupCompile.cache
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\SendBroadCastMessage.g.resources
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\SendBroadCastMessage.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\SendBroadCastMessage.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\SendBroadCastMessage.exe
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Release\SendBroadCastMessage.pdb

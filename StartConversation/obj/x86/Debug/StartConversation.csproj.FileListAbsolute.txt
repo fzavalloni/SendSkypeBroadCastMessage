@@ -1,0 +1,37 @@
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\MainWindow.baml
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\MainWindow.g.cs
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\App.g.cs
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\StartConversation_MarkupCompile.cache
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\StartConversation.g.resources
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\StartConversation.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\StartConversation.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\StartConversation.exe
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\StartConversation.pdb
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\Microsoft.Lync.Model.dll
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\Microsoft.Office.Uc.dll
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\Microsoft.Lync.Model.xml
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\StartConversation.exe
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\obj\x86\Debug\StartConversation.pdb
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\StartConversation.exe.config
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\Elmah.dll
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\MoreLinq.dll
+D:\Users\fabrizio.zavalloni\Desktop\Lync 2013 Start an IM conversation by using automation\C#\StartConversation\bin\Debug\MoreLinq.xml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\StartConversation.exe.config
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\StartConversation.exe
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\StartConversation.pdb
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\StartConversation.exe
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\StartConversation.pdb
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\Elmah.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\Microsoft.Lync.Model.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\MoreLinq.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\Microsoft.Office.Uc.dll
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\Microsoft.Lync.Model.xml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\MoreLinq.xml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\MainWindow.baml
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\MainWindow.g.cs
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\App.g.cs
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\StartConversation_MarkupCompile.cache
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\StartConversation.g.resources
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\StartConversation.Properties.Resources.resources
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\obj\x86\Debug\StartConversation.csproj.GenerateResource.Cache
+D:\Users\fabrizio.zavalloni\Desktop\BroadcastMessage\C#\StartConversation\bin\Debug\SendBroadCastMessage.exe.config

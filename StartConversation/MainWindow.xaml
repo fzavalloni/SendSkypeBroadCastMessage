@@ -1,0 +1,45 @@
+﻿
+<Window x:Class="StartConversation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lync/Skype for Business - Broadcast Message Tool" Height="514.147" Width="710">
+    <Grid Margin="9,0,9,-73">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="262*"/>
+            <ColumnDefinition Width="298*"/>
+            <ColumnDefinition Width="115*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <GroupBox Header="Participants" Margin="0,0,-0.612,390" HorizontalAlignment="Left" Width="675" Grid.ColumnSpan="5">
+
+            <RichTextBox Name="rtbParticipants" Margin="1,1,1,1" SelectionOpacity="0" MinWidth="10" MinHeight="1">
+                <RichTextBox.Resources>
+                <Style TargetType="{x:Type Paragraph}">
+                    <Setter Property="Margin" Value="0" />
+                </Style>
+            </RichTextBox.Resources>
+                         </RichTextBox>
+        </GroupBox>
+        
+        <GroupBox Header="Status" HorizontalAlignment="Left" Margin="0,415,-0.612,73" Width="675" Grid.ColumnSpan="5">
+            <TextBox Name="txtErrors" IsReadOnly="True" Margin="1,1,1,1" RenderTransformOrigin="0.5,0.5" >
+
+            </TextBox>
+        </GroupBox>
+        <Button Content="1-Find Online Lync/Skype Contacts" Margin="2,380,240,141" Name="btnStartConv" Click="btnStartConv_Click" Grid.ColumnSpan="2" />
+        <Button Content="2-Create Broadcast Conversation Window" Click="btnSendMessage_Click" Name="btnSendMessage" HorizontalAlignment="Left" Margin="66,380,0,0" VerticalAlignment="Top" Width="341" Height="30" Grid.ColumnSpan="2" Grid.Column="1"/>
+
+        <GroupBox Header="Broadcast Message" HorizontalAlignment="Left" Margin="0,171,-0.612,0" VerticalAlignment="Top" Grid.ColumnSpan="5" Width="675" Height="207">
+            <RichTextBox Name="rtbMessage"   Margin="1,1,1,1" >
+                <RichTextBox.Resources>
+                    <Style TargetType="{x:Type Paragraph}">
+                        <Setter Property="Margin" Value="0" />
+                    </Style>
+                </RichTextBox.Resources>
+            </RichTextBox>
+
+        </GroupBox>
+    </Grid>
+</Window>
