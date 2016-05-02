@@ -13,3 +13,5 @@ This app was built using the Lync 2013 Client SDK [https://msdn.microsoft.com/en
 Open the Lync/Skype Client and execute the program.
 
 
+
+
