@@ -12,11 +12,11 @@ This app was built using the Lync 2013 Client SDK [https://msdn.microsoft.com/en
 
 Open the Lync/Skype Client and execute the program.
 
-![Img1](https://github.com/fzavalloni/SendSkypeBroadCastMessage/tree/master/StartConversation/img/broadcastmessage1.png)
+![Img1](https://github.com/fzavalloni/SendSkypeBroadCastMessage/blob/master/img/broadcastmessage1.png)
 Format: ![Alt Text](url)
 
-![Img2](https://github.com/fzavalloni/SendSkypeBroadCastMessage/tree/master/StartConversation/img/broadcastmessage2.png)
-Format: ![Alt Text](url)
+![Img2](https://github.com/fzavalloni/SendSkypeBroadCastMessage/blob/master/img/broadcastmessage2.png)
+Format: !
 
 
 
